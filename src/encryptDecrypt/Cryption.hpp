@@ -1,0 +1,5 @@
+#ifndef CRYPTION_HPP
+#define CRYPTION_HPP
+
+
+#endif CRYPTION_HPP

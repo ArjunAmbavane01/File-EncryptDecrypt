@@ -7,7 +7,7 @@
 
 class ProcessManagement{
     private:
-    std::queue<std::unique_ptr<Task>> taskqueue;
+    std::queue<std::unique_ptr<Task>> taskQueue;
 
     public:
     ProcessManagement();
